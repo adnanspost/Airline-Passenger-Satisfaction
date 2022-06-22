@@ -53,7 +53,7 @@ While the fine details of the methdology followed in this project will be elabor
 - Correlation between all the Variables
 
 ### 12. Resampling Data
-- SMOTH
+- SMOTE
 
 ### 13. Data Splitting
 
